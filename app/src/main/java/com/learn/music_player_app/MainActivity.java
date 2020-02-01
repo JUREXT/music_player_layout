@@ -1,4 +1,4 @@
-package com.learn.misic_app;
+package com.learn.music_player_app;
 
 import androidx.appcompat.app.AppCompatActivity;
 
